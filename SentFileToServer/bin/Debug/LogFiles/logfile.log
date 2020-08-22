@@ -1,0 +1,4 @@
+2020-08-22 02:05:21.7889 [ 16 ] SentFileToServer.UploadFileToServer.SendToServer | Info | Local directories has been created if those are not exists 
+2020-08-22 02:05:21.7889 [ 16 ] SentFileToServer.UploadFileToServer.SendToServer | Info | Files have been sent to remote server 
+2020-08-22 02:05:51.7888 [ 17 ] SentFileToServer.UploadFileToServer.SendToServer | Info | Local directories has been created if those are not exists 
+2020-08-22 02:05:51.7888 [ 17 ] SentFileToServer.UploadFileToServer.SendToServer | Info | Files have been sent to remote server 
